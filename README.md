@@ -12,7 +12,6 @@
 - 🎓 Pursuing **MCA** at Motilal Nehru National Institute of Technology, Allahabad (CGPA: 8.40)
 - 🏆 Secured **AIR 201** in NIMCET 2024
 - 🔭 Recently built **FixMate** (hostel complaint tracker) and **LifeCare** (blood test booking platform)
-- 💬 Ask me about React, Node.js, Spring Boot, MongoDB & System Design(Basics)
 - 📫 Reach me at **patidarneha2802@gmail.com**
 
 ---
@@ -60,12 +59,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Neha-061&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neha-061&theme=radical" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Neha-061&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Neha-061&theme=radical" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neha-061&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Neha-061&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -79,7 +78,9 @@
   <a href="mailto:patidarneha2802@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
- 
+  <a href="https://leetcode.com/PatidarInTech" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
 </p>
 
 ---
