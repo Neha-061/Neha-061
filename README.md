@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | MCA @ MNNIT Allahabad</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+%26+Java+Spring+Boot;Competitive+Programmer;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Developer;Competitive+Programmer;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 ---
@@ -11,7 +11,7 @@
 
 - 🎓 Pursuing **MCA** at Motilal Nehru National Institute of Technology, Allahabad (CGPA: 8.40)
 - 🏆 Secured **AIR 201** in NIMCET 2024
-- 🔭 Recently built **FixMate** (hostel complaint tracker) and **LifeCare** (blood test booking platform)
+- 🔭 Recently built **FixMate** (hostel complaint & maintenance management system) and **LifeCare** (blood test home collection & management system)
 - 📫 Reach me at **patidarneha2802@gmail.com**
 
 ---
@@ -40,32 +40,25 @@
 <table>
   <tr>
     <td width="50%">
-      <h4>🏥 <a href="https://github.com/Neha-061/LifeCare">LifeCare</a></h4>
-      Blood Test Home Collection & Management System<br/>
-      <b>Stack:</b> MongoDB, Express.js, React.js, Node.js<br/>
-      Full-stack booking platform with JWT auth, admin dashboard, Razorpay payments, and optimized pathologist routing (reduced redundant trips by 50%).
+      <h4>🛠️ FixMate</h4>
+      Smart Hostel Complaint & Maintenance Tracker<br/><br/>
+      • Built full-stack hostel complaint system with secure REST APIs, JWT authentication, and role-based access control (RBAC) for Student, Staff, and Admin roles using Spring Security.<br/>
+      • Integrated WebSockets (STOMP/SockJS) for real-time complaint status notifications and Redis caching for optimized data retrieval.<br/>
+      • Designed normalized PostgreSQL schema with MinIO object storage for scalable complaint evidence image uploads.<br/>
+      • Built interactive React analytics dashboard with Recharts visualizations showing daily complaint trends and category-wise breakdowns.<br/><br/>
+      <b>Tech Stack:</b> Java 21, Spring Boot, Spring Security, JWT, PostgreSQL, React, Redis, WebSockets, MinIO
     </td>
     <td width="50%">
-      <h4>🛠️ <a href="https://github.com/Neha-061/FixMate">FixMate</a></h4>
-      Smart Hostel Complaint & Maintenance Tracker<br/>
-      <b>Stack:</b> Java 21, Spring Boot, PostgreSQL, React, Redis<br/>
-      Role-based complaint system with real-time WebSocket notifications, Redis caching, and MinIO for evidence uploads.
+      <h4>🏥 <a href="https://github.com/Neha-061/LifeCare">LifeCare</a></h4>
+      Blood Test Home Collection & Management System<br/><br/>
+      • Developed a full-stack Blood Test Booking platform with secure JWT authentication, test booking, appointment scheduling, and PDF report delivery.<br/>
+      • Built an Admin Dashboard with full CRUD functionality and a digital pathology module for organized test profiles and discounted bundles.<br/>
+      • Designed an intuitive flow for patients to explore symptom-based tests, compare details, and book home sample collection seamlessly.<br/>
+      • Integrated Razorpay API for secure payments and optimized pathologist travel routes, reducing redundant trips by up to 50%.<br/><br/>
+      <b>Tech Stack:</b> MongoDB, Express.js, React.js, Node.js, JWT, RESTful APIs
     </td>
   </tr>
 </table>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Neha-061&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=Neha-061&theme=radical" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Neha-061&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 ---
 
