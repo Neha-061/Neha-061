@@ -52,27 +52,33 @@
 
 ### 🌟 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <h4>🛠️ FixMate</h4>
-      Smart Hostel Complaint & Maintenance Tracker<br/><br/>
-      • Built full-stack hostel complaint system with secure REST APIs, JWT authentication, and role-based access control (RBAC) for Student, Staff, and Admin roles using Spring Security.<br/>
-      • Integrated WebSockets (STOMP/SockJS) for real-time complaint status notifications and Redis caching for optimized data retrieval.<br/>
-      • Designed normalized PostgreSQL schema with MinIO object storage for scalable complaint evidence image uploads.<br/>
-      • Built interactive React analytics dashboard with Recharts visualizations showing daily complaint trends and category-wise breakdowns.<br/><br/>
-    </td>
-    <td width="50%">
-      <h4>🏥 <a href="https://github.com/Neha-061/LifeCare">LifeCare</a></h4>
-      Blood Test Home Collection & Management System<br/><br/>
-      • Developed a full-stack Blood Test Booking platform with secure JWT authentication, test booking, appointment scheduling, and PDF report delivery.<br/>
-      • Built an Admin Dashboard with full CRUD functionality and a digital pathology module for organized test profiles and discounted bundles.<br/>
-      • Designed an intuitive flow for patients to explore symptom-based tests, compare details, and book home sample collection seamlessly.<br/>
-      • Integrated Razorpay API for secure payments and optimized pathologist travel routes, reducing redundant trips by up to 50%.<br/><br/>
-      <b>Tech Stack:</b> MongoDB, Express.js, React.js, Node.js, JWT, RESTful APIs
-    </td>
-  </tr>
-</table>
+**🛠️ FixMate**
+Smart Hostel Complaint & Maintenance Tracker — a full-stack system for managing hostel complaints with real-time notifications and role-based access.
+
+**Highlights**
+- Secure REST APIs with JWT authentication and role-based access control (RBAC) for Student, Staff, and Admin roles using Spring Security
+- Real-time complaint status notifications via WebSockets (STOMP/SockJS) with Redis caching for optimized data retrieval
+- Normalized PostgreSQL schema with MinIO object storage for scalable complaint evidence image uploads
+- Interactive React analytics dashboard with Recharts visualizations for daily complaint trends and category-wise breakdowns
+
+**Tech Stack**
+`Java 21` • `Spring Boot` • `Spring Security` • `JWT` • `PostgreSQL` • `React` • `Redis` • `WebSockets` • `MinIO`
+
+---
+
+**🏥 LifeCare**
+Blood Test Home Collection & Management System — a full-stack booking platform for home sample collection and pathology management.
+
+**Highlights**
+- Secure JWT authentication, test booking, appointment scheduling, and PDF report delivery
+- Admin Dashboard with full CRUD functionality and a digital pathology module for organized test profiles and discounted bundles
+- Intuitive patient flow to explore symptom-based tests, compare details, and book home sample collection
+- Razorpay integration for secure payments and optimized pathologist travel routes, reducing redundant trips by up to 50%
+
+**Tech Stack**
+`MongoDB` • `Express.js` • `React.js` • `Node.js` • `JWT` • `RESTful APIs`
+
+[GitHub →](https://github.com/Neha-061/LifeCare)
 
 ---
 
