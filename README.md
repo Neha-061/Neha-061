@@ -40,7 +40,12 @@
 
 **Tools**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" />
 </p>
 
 ---
@@ -56,7 +61,6 @@
       • Integrated WebSockets (STOMP/SockJS) for real-time complaint status notifications and Redis caching for optimized data retrieval.<br/>
       • Designed normalized PostgreSQL schema with MinIO object storage for scalable complaint evidence image uploads.<br/>
       • Built interactive React analytics dashboard with Recharts visualizations showing daily complaint trends and category-wise breakdowns.<br/><br/>
-      <b>Tech Stack:</b> Java 21, Spring Boot, Spring Security, JWT, PostgreSQL, React, Redis, WebSockets, MinIO
     </td>
     <td width="50%">
       <h4>🏥 <a href="https://github.com/Neha-061/LifeCare">LifeCare</a></h4>
